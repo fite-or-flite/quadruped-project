@@ -9,3 +9,4 @@ components:
 Robot is almost too heavy for it's own weight.  Lighter power source would be better, but it's what I had available.
 Multiple iterations of code, trying to work out leg movements on my own (without internet help).  Would probably work better if I utilized arduino timers, but I haven't worked that out yet.
 
+Uploading all iterations for reference.  Last file uploaded is current version.
